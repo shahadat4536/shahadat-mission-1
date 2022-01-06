@@ -7,9 +7,6 @@ body{
     clear: both;
 }
 
-section{
-    
-}
 
 .fspad{
     display: flex;
@@ -97,14 +94,39 @@ section{
     width: 25%;
     margin: 0px 20px 0px 20px;
     padding: 20px;
+}
 
-.strd{
+.trdse img{
+    width: 30%;
+}
+
+.trdse{
     display: flex;
-    width: 80%;
+    margin-top: 150px;
     margin-left: 10%;
     margin-right: 10%;
 }
 
-.fasto img{
-    width: 50%;
+.trdhed{
+    color: darkgreen;
+    font-size: 25px;
+    line-height: 15px;
+
+}
+
+.trdsec{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#trdbutton{
+    padding-top: 20px;
+}
+
+.frdse{
+    display: flex;
+}
+
+.frdimg img{
+    width: 60%;
 }
