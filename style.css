@@ -4,10 +4,11 @@ body{
 }
 
 section{
-    display: flex;
+    
 }
 
 .fspad{
+    display: flex;
     padding-top: 2em;
     margin-left: 30px;
 }
@@ -48,4 +49,12 @@ section{
     padding: 10px 20px;
     color: white;
     border-radius: 5px;
+}
+
+.ssmi{
+    display:flex;
+    width: 33.3%;
+}
+.m-i img{
+    width: 30%;
 }
