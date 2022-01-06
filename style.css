@@ -131,12 +131,12 @@ body{
 }
 
 .frdimg img{
-    width: 60%;
+    width: 75%;
     
 }
 
 .frdpa{
-    
+    padding-right: 140px;
     padding-left: 180px;    
 }
 
