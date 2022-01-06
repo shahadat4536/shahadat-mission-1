@@ -7,17 +7,34 @@ section{
     display: flex;
 }
 
+.fspad{
+    padding-top: 2em;
+    margin-left: 30px;
+}
+
+.h-font{
+    font-size: 30px;
+    line-height: 40px;
+    border-left: 5px solid rgb(0, 128, 64);
+    padding-left: 20px;
+    
+}
+
 .h11{
     color: red;
 }
 
+#p-1{
+    margin-top: 50px;
+}
 .fast{
     width: 50%;
     padding: 4%;
 }
 
 .fast img{
-    width: 70%;
+    width: 75%;
+
 }
 
 #fast-s-p{
