@@ -8,6 +8,10 @@ body{
     clear: both;
 }
 
+p{
+    text-align: justify;
+}
+
 
 .fspad{
     display: flex;
@@ -155,6 +159,10 @@ body{
 }
 .hedsp{
     color: white;
+}
+
+.hedp{
+    text-align: center;
 }
 
 .bosec{
