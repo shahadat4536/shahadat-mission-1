@@ -3,6 +3,10 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.clr{
+    clear: both;
+}
+
 section{
     
 }
@@ -52,9 +56,55 @@ section{
 }
 
 .ssmi{
-    display:flex;
-    width: 33.3%;
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    
+}
+
+.shed{
+    text-align: center;
+    font-size: 50px;
+}
+.shedco{
+    color: chocolate;
 }
 .m-i img{
-    width: 30%;
+    width: 45%;
+}
+
+.m-1{
+    background-color: rgb(216, 209, 199);
+    border-radius: 30px;
+    width: 25%;
+    margin: 0px 20px 0px 20px;
+    padding: 20px;
+}
+
+.m-2{
+    background-color: rgb(167, 154, 179);
+    border-radius: 30px;
+    width: 25%;
+    margin: 0px 20px 0px 20px;
+    padding: 20px;
+}
+
+.m-3{
+    background-color: rgb(156, 189, 190);
+    border-radius: 30px;
+    width: 25%;
+    margin: 0px 20px 0px 20px;
+    padding: 20px;
+
+.strd{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.fasto img{
+    width: 50%;
 }
