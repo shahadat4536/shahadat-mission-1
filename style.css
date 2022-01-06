@@ -4,10 +4,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-.clr{
-    clear: both;
-}
-
 p{
     text-align: justify;
 }
@@ -165,8 +161,10 @@ p{
     color: white;
 }
 
+
 .hedp{
     text-align: center;
+    
 }
 
 .bosec{
